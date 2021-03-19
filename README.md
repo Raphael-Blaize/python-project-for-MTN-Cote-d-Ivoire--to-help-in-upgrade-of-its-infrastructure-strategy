@@ -39,7 +39,7 @@ import numpy as np # offers comprehensive mathematical functions etc
     * Mean of the Values column and how it is spread 
     * Descriptive statistics of the Product value measured against the Cities
   * Questions to be able to solve the challenge 
-     * 1. Which Citites had the highest billin
+     * 1. Which Citites had the highest billing
      * 2. The city with the most cells
      * 3. Which cities were the most used during business and home hours
      * 4. Most used city for the three days
