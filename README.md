@@ -13,11 +13,13 @@ the given cities, MTN Cote d'Ivoire would like to upgrade it's technology to the
 
 ### Methods Used
 * Descriptive Statistics
-*  Data Analysis
+* Data Visualistaion Techniques
+* Data Analysis
 
 ### Technologies
 * Python
 * Pandas,Numpy,Gooogle Colab
+* Tableau
 
 ```python
 import pandas as pd # python library that import datasets into a working env and does so much more such as helping in cleaning datasets etc
@@ -32,6 +34,8 @@ import numpy as np # offers comprehensive mathematical functions etc
     * CDR 20120507 [http://bit.ly/TelecomDataset1]
     * CDR 20120508 [http://bit.ly/TelecomDataset2]
     * CDR 20120509 [http://bit.ly/TelecomDataset3]
+  * Dataset used for visulisation in Tableau
+    * MTNfinal.csv [Link] (https://drive.google.com/file/d/1mU8odOYh6Z8hpl8cRBxT9JwAd11HFH0y/view?usp=sharing)
   * Data Analysis used
     * Frequency in cities and Values 
     * Grouping by columns to find maxmimum and minimum of columns
@@ -51,6 +55,7 @@ import numpy as np # offers comprehensive mathematical functions etc
 - data exploration/descriptive statistics
 - data processing/cleaning - involves taking care of missing data, outliers and duplicates before after merging the datasets
 - Data Repoort 
+- Data Visualisation
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
