@@ -34,7 +34,7 @@ import numpy as np # offers comprehensive mathematical functions etc
     * CDR 20120507 [http://bit.ly/TelecomDataset1]
     * CDR 20120508 [http://bit.ly/TelecomDataset2]
     * CDR 20120509 [http://bit.ly/TelecomDataset3]
-  * Dataset used for visulisation in Tableau
+  * Exported Dataset used for visulisation in Tableau
     * MTNfinal.csv [Link] (https://drive.google.com/file/d/1mU8odOYh6Z8hpl8cRBxT9JwAd11HFH0y/view?usp=sharing)
   * Data Analysis used
     * Frequency in cities and Values 
